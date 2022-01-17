@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning Blockchain.
 - 💞️ I’m looking to collaborate on making all our lives more interesting.
-- 📫 How to reach me ...
+- 📫 How to reach me discord: Simond#9348
 
 <!---
 simond110/simond110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
