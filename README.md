@@ -1,129 +1,101 @@
-# GitSavvy
+<h2 align="center">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+    Blockchain Engineer & Full Stack Developer
+</h2>
+<br>
+<p>
+  <p>
+    <img align="right" width="500" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
+  </p>
+  <p>
+    I am an experienced Full Stack development professional.
+    I have years of experience in working with various web technologies, platforms and coding languages.
+    I started my web career as a freelance developer and shortly thereafter, I realized that most of the clients
+    want a reliable service provider but they almost always have difficulty in finding the right person
+    for the job amongst thousands and thousands of freelance workers. So I decided to start my own business
+    because I am confident in my capabilities to provide you with quality Blockchain,
+    Fullstack development, support & maintenance services.
+  </p>
+</p>
+<br>
+<p align="center">
+  <a href="https://github.com/simond110"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Full-Stack%20Software%20engineer;10+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
+</p>
 
-[![Build Status](https://travis-ci.org/timbrel/GitSavvy.svg?branch=master)](https://travis-ci.org/timbrel/GitSavvy)
-[![AppVeyor branch](https://img.shields.io/appveyor/ci/divmain/GitSavvy/master.svg)](https://ci.appveyor.com/project/divmain/GitSavvy)
-[![Coverage Status](https://coveralls.io/repos/github/timbrel/GitSavvy/badge.svg)](https://coveralls.io/github/timbrel/GitSavvy)
-![License](https://camo.githubusercontent.com/890acbdcb87868b382af9a4b1fac507b9659d9bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667)
+## My Core Skill Stack
+### Languages
 
-Sublime Text 3 plugin providing the following features:
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![php](https://img.shields.io/badge/PHP-007aff?style=for-the-badge&logo=php&logoColor=white)
+![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![golang](https://img.shields.io/badge/Golang-28B6F6?style=for-the-badge&logo=go&logoColor=white)
+![rust](https://img.shields.io/badge/Rust-a01058?style=for-the-badge&logo=rust&logoColor=white)
 
-- basic Git functionality; `init`, `add`, `commit`, `amend`, `checkout`, `pull`, `push`, etc.
-- inline diff viewing, including quick navigation between modified hunks and the ability to (un)stage files by hunk or by line (respectfully stolen from SourceTree, GitX, et al)
-- GitHub integration
-    + issue/collaborator referencing when committing
-    + opening the current file on GitHub at the selected line
-- GitHub-style blame view, showing hunk metadata and ability to view the commit that made the change
-- `git diff` view, allowing user to (un)stage hunks across all files
-- status, branch, tag, and rebase dashboards
+### Front-End Development
 
-**Note:** GitSavvy requires Git versions at or greater than 2.18.0.
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![react-router](https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router&logoColor=61DAFB)
+![angular](https://img.shields.io/badge/Angular-CA4245?style=for-the-badge&logo=angular&logoColor=61DAFB)
+![vue](https://img.shields.io/badge/Vue-1ca010?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF)
+![nuxt](https://img.shields.io/badge/Nuxt-000000?style=for-the-badge&logo=nuxtdotjs&logoColor=FFFFFF)
+![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![styled-components](https://img.shields.io/badge/Styled_Components-4285F4?style=for-the-badge&logo=styled-components&logoColor=white)
+![chakra-ui](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
+![three](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-**Note:** Sublime Text 2 is not supported.  Also, GitSavvy takes advantage of certain features of ST3 that have bugs in earlier ST3 releases.  For the best experience, use the latest ST3 dev build.
+### Block-Chain Development
 
+![ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![web3](https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![solana](https://img.shields.io/badge/Solana-430098?style=for-the-badge&logo=solana&logoColor=white)
 
-## Documentation
+### Cross Platform Development
 
-Feature documentation can be found [here](docs/README.md).  It can also be accessed from within Sublime by opening the command palette and typing `GitSavvy: help`.
+![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)
+![electron](https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=white)
 
+### Backend as a Service (BaaS)
 
-## Highlights
+![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
+![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
+![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-<table>
-    <tr>
-        <th>Inline-diff</th>
-        <th>Status dashboard</th>
-    </tr>
-    <tr>
-        <td width="50%">
-            <a href="https://cloud.githubusercontent.com/assets/5016978/6471628/886430f8-c1a1-11e4-99e9-883837dba86f.gif">
-                <img src="https://cloud.githubusercontent.com/assets/5016978/6471628/886430f8-c1a1-11e4-99e9-883837dba86f.gif" width="100%">
-            </a>
-        </td>
-        <td width="50%">
-            <a href="https://cloud.githubusercontent.com/assets/5016978/6704171/2f236466-cd02-11e4-9b7d-22cc880b5e9d.png">
-                <img src="https://cloud.githubusercontent.com/assets/5016978/6704171/2f236466-cd02-11e4-9b7d-22cc880b5e9d.png" width="100%">
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td width="50%">(Un)stage and revert individual lines and hunks.</td>
-        <td width="50%">Display and overview and offer actions to manipulate your project state.</td>
-    </tr>
-</table>
+### Design Tools
 
-<table>
-    <tr>
-        <th>Branch dashboard</th>
-        <th>Tags dashboard</th>
-    </tr>
-    <tr>
-        <td width="50%">
-            <a href="https://cloud.githubusercontent.com/assets/5016978/6704168/2b2e7b84-cd02-11e4-90f4-8dd96b21edeb.png">
-                <img src="https://cloud.githubusercontent.com/assets/5016978/6704168/2b2e7b84-cd02-11e4-90f4-8dd96b21edeb.png" width="100%">
-            </a>
-        </td>
-        <td width="50%">
-            <a href="https://cloud.githubusercontent.com/assets/5016978/6704169/2c80beac-cd02-11e4-8940-986ea0f0d6bb.png">
-                <img src="https://cloud.githubusercontent.com/assets/5016978/6704169/2c80beac-cd02-11e4-8940-986ea0f0d6bb.png" width="100%">
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td width="50%">View and manipulate local and remote branches.</td>
-        <td width="50%">View and manipulate local and remote tags.</td>
-    </tr>
-</table>
+![adobe-xd](https://img.shields.io/badge/abode_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-<table>
-    <tr>
-        <th>Github integration</th>
-        <th>Rebase dashboard</th>
-    </tr>
-    <tr>
-        <td width="50%">
-            <a href="https://cloud.githubusercontent.com/assets/5016978/6704029/8fcaddbe-cd00-11e4-83b6-32276a2c2b65.gif">
-                <img src="https://cloud.githubusercontent.com/assets/5016978/6704029/8fcaddbe-cd00-11e4-83b6-32276a2c2b65.gif" width="100%">
-            </a>
-        </td>
-        <td width="50%">
-            <a href="https://cloud.githubusercontent.com/assets/5016978/7017776/5ca9ceca-dcb1-11e4-8fcb-552551f7743a.gif">
-                <img src="https://cloud.githubusercontent.com/assets/5016978/7017776/5ca9ceca-dcb1-11e4-8fcb-552551f7743a.gif" width="100%">
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td width="50%">Reference issues and collaborators in commits.  Open files on GitHub in the browser, with lines pre-selected.</td>
-        <td width="50%"> Squash, edit, move, rebase, undo, redo.</td>
-    </tr>
-</table>
+### Testing
 
+![mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## Installation
-
-### Simple
-
-1. Install the [Sublime Text Package Control](https://packagecontrol.io/) plugin if you don't have it already.
-2. Open the command palette and start typing `Package Control: Install Package`.
-3. Enter `GitSavvy`.
-
-**Note:** If you're using 64-bit Windows, the path to the Git binary may not be as you expect.  If GitSavvy fails to operate correctly in this configuration, make sure to confirm the Git path you're using in the config.
-
-### Less simple
-
-If you want more control over what you pull down, or if you'd like to submit changes to GitSavvy, you should pull down the repository directly and restart the editor.
-
-```
-# on a Mac
-cd "$HOME/Library/Application Support/Sublime Text 3/Packages"
-# on Linux
-cd $HOME/.config/sublime-text-3/Packages
-# on Windows (PowerShell)
-cd "$env:appdata\Sublime Text 3\Packages\"
-
-git clone https://github.com/timbrel/GitSavvy.git
-
-# Package Control need to be installed https://packagecontrol.io/installation
-# install dependencies from command line
-subl --command 'satisfy_dependencies'
-# or open Command Palette and run 'Package Control: Satisfy Dependencies'
-```
+<br>
+## <b>😇 My Github Stats</b>:
+<p align="left"><img src="https://komarev.com/ghpvc/?username=simond110&label=Profile%20views&color=0e75b6&style=flat" alt="darkrut" /> </p>
+<p align="center" style="margin-bottom: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=simond110&column=7&theme=onedark" alt="simond110" /></p>
+<p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=simond110&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"> 
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=simond110&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true">
+</p>
+<a href="https://github.com/simond110/simond110">
+  <img alt="simond110's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=simond110&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF"/>
+</a>
+  
+</p>
+</details>
