@@ -85,6 +85,7 @@
 ![mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![rspec](https://img.shields.io/badge/Rspec-3776AB?style=for-the-badge&logo=rspec&logoColor=white)
 
 <br>
 ## <b>😇 My Github Stats</b>:
