@@ -32,7 +32,7 @@
 ![php](https://img.shields.io/badge/PHP-007aff?style=for-the-badge&logo=php&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![ruby](https://img.shields.io/badge/Ruby-28B6F6?style=for-the-badge&logo=go&logoColor=white)
+![ruby](https://img.shields.io/badge/Ruby-28B6F6?style=for-the-badge&logo=ruby&logoColor=white)
 ![rust](https://img.shields.io/badge/Rust-a01058?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Front-End Development
@@ -64,7 +64,7 @@
 ### Cross Platform Development
 
 ![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)
-![ReactNative](https://img.shields.io/badge/React Native-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)
+![ReactNative](https://img.shields.io/badge/React_Native-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)
 ![electron](https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=white)
 
 ### Backend as a Service (BaaS)
