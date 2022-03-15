@@ -92,7 +92,7 @@
 <p align="center"> 
   Visitors count<br>
   <br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+  <img src="https://profile-counter.glitch.me/simond110/count.svg" />
 </p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=simond110&label=Profile%20views&color=0e75b6&style=flat" alt="darkrut" /> </p>
 <p align="center" style="margin-bottom: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=simond110&column=7&theme=onedark" alt="simond110" /></p>
